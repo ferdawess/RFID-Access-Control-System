@@ -4,7 +4,7 @@ An Arduino-based RFID access control system using the RC522 module to identify a
 
 ![Project](images/project.png.png)
 
-![Project](images/project.jpg)
+![Project](images/project.jpg.jpeg)
 
 ## Project Video
 
